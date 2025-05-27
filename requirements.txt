@@ -1,0 +1,7 @@
+sacrebleu
+rouge_score
+vllm==0.8.5
+tensordict==0.6.2
+flashinfer-python
+tabulate
+flash-attn --no-build-isolation
