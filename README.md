@@ -66,6 +66,4 @@ If you find Table-R1 useful in your research, please cite our paper:
   journal={arXiv preprint arXiv:2505.23621},
   year={2025}
 }
-}
-
 ```
