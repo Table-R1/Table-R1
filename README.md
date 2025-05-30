@@ -64,9 +64,8 @@ If you find Table-R1 useful in your research, please cite our paper:
   title={Table-R1: Inference-Time Scaling for Table Reasoning},
   author={Yang, Zheyuan and Chen, Lyuhao and Cohan, Arman and Zhao, Yilun},
   journal={arXiv preprint arXiv:2505.23621},
-  year={2024}
+  year={2025}
 }
-
 }
 
 ```
