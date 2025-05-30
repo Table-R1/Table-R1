@@ -60,7 +60,7 @@ bash script/table-r1-eval.sh
 If you find Table-R1 useful in your research, please cite our paper:
 
 ```bibtex
-@article{yang2024tabler1,
+@article{yang2025tabler1,
   title={Table-R1: Inference-Time Scaling for Table Reasoning},
   author={Yang, Zheyuan and Chen, Lyuhao and Cohan, Arman and Zhao, Yilun},
   journal={arXiv preprint arXiv:2505.23621},
