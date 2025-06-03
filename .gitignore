@@ -1,6 +1,6 @@
 **/*.pt
 **/checkpoints
-**/models
+/models
 **/log
 **/eval_log
 **/wget-log
