@@ -1,7 +1,7 @@
 # Table-R1: Inference-Time Scaling for Table Reasoning
 
 <p align="center">
-    🤗 <a href="https://huggingface.co/Table-R1">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/abs/.....">arXiv (upcoming)</a>
+    🤗 <a href="https://huggingface.co/Table-R1">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp📄 <a href="https://arxiv.org/pdf/2505.23621">arXiv</a>
 </p>
 
 ## 📖 Abstract
@@ -60,5 +60,10 @@ bash script/table-r1-eval.sh
 If you find Table-R1 useful in your research, please cite our paper:
 
 ```bibtex
-
+@article{yang2025tabler1,
+  title={Table-R1: Inference-Time Scaling for Table Reasoning},
+  author={Yang, Zheyuan and Chen, Lyuhao and Cohan, Arman and Zhao, Yilun},
+  journal={arXiv preprint arXiv:2505.23621},
+  year={2025}
+}
 ```
